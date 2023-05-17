@@ -42,6 +42,7 @@ THEN I am taken to the corresponding section of the README
 - Uses the Inquirer packageLinks to an external site..  
 
 
+
 ###Repository Quality: 13%
 - Repository has a unique name.
 
@@ -52,4 +53,7 @@ THEN I am taken to the corresponding section of the README
 - Repository contains multiple descriptive commit messages.
 
 - Repository contains a high-quality README with description and a link to walkthrough video.
+
+
+<img width="1081" alt="Screen Shot 2023-05-16 at 21 47 13" src="https://github.com/mondragonSaiz/README-Generator/assets/71055501/2f9372e2-13f5-448b-97ef-c78033191d17">
 
