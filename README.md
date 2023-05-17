@@ -1,4 +1,4 @@
-# README GEnerator
+# README Generator
 simple CLI app to generate a readme file including the best practices and all the proper sections a readme file should include.
 
 
